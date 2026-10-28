@@ -1,0 +1,1733 @@
+{
+  "files" : [
+    {
+      "path" : "cards/eq_mi8t/A037_mi8t.md",
+      "sha256" : "0e96d41ebb8d2249f34409f3d396ac6a7db7a4951eb2356286e08498dbfbd41a",
+      "size" : 12325
+    },
+    {
+      "path" : "cards/eq_mi8t/Agb_mi8t.md",
+      "sha256" : "09d3faa6439f189fa04b2541fef2814b0cc8a2986930149aaa2d8a5a77e61373",
+      "size" : 8176
+    },
+    {
+      "path" : "cards/eq_mi8t/Amp_mi8t.md",
+      "sha256" : "49270ad7c416fae664697816fb20a0191ef3d37a4724691692c5cafeace1070f",
+      "size" : 6701
+    },
+    {
+      "path" : "cards/eq_mi8t/Ap34_mi8t.md",
+      "sha256" : "a574d43a4b2ff3dfbad7c15d2dc443bd97a0874b1be87d8a739c46e17ec7bbea",
+      "size" : 17247
+    },
+    {
+      "path" : "cards/eq_mi8t/Ark15_mi8t.md",
+      "sha256" : "2274e2c459751899c256c9a3038346dd8c92d35cf0958e5f8b8ed88c649e47bd",
+      "size" : 12714
+    },
+    {
+      "path" : "cards/eq_mi8t/Ark2_mi8t.md",
+      "sha256" : "74f8d9711a0eb6260e77d7eaf261eb842dff510cb719b3f981a73486f69c46a0",
+      "size" : 2966
+    },
+    {
+      "path" : "cards/eq_mi8t/Ark9_mi8t.md",
+      "sha256" : "e3daf5ca6d25dc500f07460f1f64955cc83ec7da9da95cb71ce17a8f0ef0d9fb",
+      "size" : 8422
+    },
+    {
+      "path" : "cards/eq_mi8t/Arm_mi8t.md",
+      "sha256" : "93d7eeeae5f4df0cc6399acda260581f50a5241e7175ee33c9a624dd7a177799",
+      "size" : 15053
+    },
+    {
+      "path" : "cards/eq_mi8t/Avstop_mi8t.md",
+      "sha256" : "c41d556cf5144dda490ff38c6995812a918d8a2998ad67c2675c5cb6437b52b5",
+      "size" : 2036
+    },
+    {
+      "path" : "cards/eq_mi8t/Avstopzap_mi8t.md",
+      "sha256" : "c7aaec0af429aafd6421a8a3987d6f384bfc212efbfbb710ba7d3929e6aac555",
+      "size" : 2723
+    },
+    {
+      "path" : "cards/eq_mi8t/Bspk_mi8t.md",
+      "sha256" : "dbfb4335d0030789f712befa77bdd0f8534fe5168a1b4db7c384ab76d1585c58",
+      "size" : 6912
+    },
+    {
+      "path" : "cards/eq_mi8t/Bur_mi8t.md",
+      "sha256" : "c6783a279ff7e8139f38317b0dff59327b329e959a1564eadce19bbda8450313",
+      "size" : 11094
+    },
+    {
+      "path" : "cards/eq_mi8t/Cond_mi8t.md",
+      "sha256" : "5561f90b048fe095a273ef99ead100f6b36ba7f8afa5fc5eafb8a4cfae7a8f78",
+      "size" : 3445
+    },
+    {
+      "path" : "cards/eq_mi8t/Contrdv_mi8t.md",
+      "sha256" : "93cf7f74f3f3371339c24fa2864d51cb6a50cb95e1e170d8da202c89fa6ecb9a",
+      "size" : 1070
+    },
+    {
+      "path" : "cards/eq_mi8t/Contrvibr_mi8t.md",
+      "sha256" : "a88aa48c340abed59c25ac92afcfc5409d2d1466e6e902b785c8f425f3ab6cfa",
+      "size" : 9249
+    },
+    {
+      "path" : "cards/eq_mi8t/Dvn_mi8mt.md",
+      "sha256" : "84e2f3ef4abd0e4699a10fdc3bdd8c6c050abc6077cba5c4a4af7560917093f1",
+      "size" : 5674
+    },
+    {
+      "path" : "cards/eq_mi8t/Dvred_mi8t.md",
+      "sha256" : "db3d8b3b5fcb6ce8ef675f0be3e19de6e031e7459fac0f064656d08a01fa193f",
+      "size" : 11050
+    },
+    {
+      "path" : "cards/eq_mi8t/Dvred_mt.md",
+      "sha256" : "a7ecfc0004893f74e86578c9c0aa9a74dfdb3056f74817bb891fecf8abc06388",
+      "size" : 411
+    },
+    {
+      "path" : "cards/eq_mi8t/Dvs_mi8mt.md",
+      "sha256" : "51ade3096f8ddd03a1d765717fbd22f0067d8e45d524e85bb1cc2c77ed31cbc2",
+      "size" : 7085
+    },
+    {
+      "path" : "cards/eq_mi8t/Elec_mi8t.md",
+      "sha256" : "d8a94803a936258f1198d768ac43a424ce7c1edf696cd8b54935f2627e325de6",
+      "size" : 426
+    },
+    {
+      "path" : "cards/eq_mi8t/Elfail_mi8t.md",
+      "sha256" : "25ca32828a63945fd6ee40e2fb824ad44113e445df3b486d046ef7978d94a27a",
+      "size" : 6427
+    },
+    {
+      "path" : "cards/eq_mi8t/Elnorm_mi8t.md",
+      "sha256" : "7b302e5cd109b52d8ebf7fe51a825981929f2974c4c4d9c1202015c8be1c0817",
+      "size" : 9084
+    },
+    {
+      "path" : "cards/eq_mi8t/Elogr_mi8t.md",
+      "sha256" : "44f3509f37598b03705bd7bfa7350d678f51d3f4f2d00659c34503b8f1dc95cd",
+      "size" : 3270
+    },
+    {
+      "path" : "cards/eq_mi8t/Elopis_mi8t.md",
+      "sha256" : "257d6f77e9267864cd1822a91b018c64e190173e43ddd0c6f9cb08b151685964",
+      "size" : 7353
+    },
+    {
+      "path" : "cards/eq_mi8t/Eq_mi8t.md",
+      "sha256" : "35ea2c230edb81630af6d6fb6f9906e4429e66876e70a00dbc70b7250bdca6eb",
+      "size" : 2427
+    },
+    {
+      "path" : "cards/eq_mi8t/Eup53_mi8t.md",
+      "sha256" : "0fb52dafdec965464b2259cb54ac7630d5134a19c13c6e351b12800f6b5fc47e",
+      "size" : 2465
+    },
+    {
+      "path" : "cards/eq_mi8t/Gmk1_mi8t.md",
+      "sha256" : "7ec39d114fe6c09e002b5b8b5ba59e1f10b37731f026bae9888a80f05f4cd96b",
+      "size" : 8443
+    },
+    {
+      "path" : "cards/eq_mi8t/Gs_mi8t.md",
+      "sha256" : "84802c89d101e093796f036dd5fcb95354d000621e48e77bb4b1667d3b8b513e",
+      "size" : 14420
+    },
+    {
+      "path" : "cards/eq_mi8t/Ki13_mi8t.md",
+      "sha256" : "8ce4c556a366303135095f613410b4ac48d021c65cc501b2262bc506c62c3674",
+      "size" : 1377
+    },
+    {
+      "path" : "cards/eq_mi8t/Ks3g_mi8t.md",
+      "sha256" : "655a35b6246beb875be296db3ed32a09c250b2bd5da1c004ed56977c448b7e1e",
+      "size" : 11763
+    },
+    {
+      "path" : "cards/eq_mi8t/Kvrs_mi8t.md",
+      "sha256" : "a1e212c8c58b02575adb612a6b1681351c2d5b306074cb1f06616d54e0513a4e",
+      "size" : 15154
+    },
+    {
+      "path" : "cards/eq_mi8t/Lpg2_mi8t.md",
+      "sha256" : "599a9323b48e80f64dc884e21ab4b49a835a00776030f10b3b21c9c650fd3265",
+      "size" : 5252
+    },
+    {
+      "path" : "cards/eq_mi8t/Manevr_mi8mt.md",
+      "sha256" : "8ce8b28ac3dafb0aedb77c39cbfd574d97d53a5680596d8409f7ac88f40ad590",
+      "size" : 2848
+    },
+    {
+      "path" : "cards/eq_mi8t/Manevr_mi8t.md",
+      "sha256" : "89eda10c5aa537efe3c375bfe1525abb1fecafb6f5cb775fea777a8820268282",
+      "size" : 2782
+    },
+    {
+      "path" : "cards/eq_mi8t/Maslsys_mi8t.md",
+      "sha256" : "c357ffef5ece4cf8118e07cf887ddabdac4de7e27297de39743cc6c92947326d",
+      "size" : 1488
+    },
+    {
+      "path" : "cards/eq_mi8t/Mass_mi8mt.md",
+      "sha256" : "9f9e45a0dc8f899fb102f5e30c3caca510c80cb352f8243140972fc75b4bec9c",
+      "size" : 5667
+    },
+    {
+      "path" : "cards/eq_mi8t/Mass_mi8t.md",
+      "sha256" : "6dbd61cc4ae0e50e6e038c1b21a0faf8afb50a1a1d944e3cad6b97093f504ec0",
+      "size" : 8970
+    },
+    {
+      "path" : "cards/eq_mi8t/Mc61_mi8t.md",
+      "sha256" : "b649bf77fe29659579010172535e1a6b1cd2d8141660730441d8c2c2f7477f78",
+      "size" : 5294
+    },
+    {
+      "path" : "cards/eq_mi8t/Min_mi8mt.md",
+      "sha256" : "a3eca8c872adcc60c8d5bf87502374c1e62011fabbf9eac5f92ac97ba2ef95da",
+      "size" : 3053
+    },
+    {
+      "path" : "cards/eq_mi8t/Min_mi8t.md",
+      "sha256" : "737d38a061eabc0ee1f03d1b63cd716941cdc637b66afa3b223a9a8f57970dcd",
+      "size" : 3242
+    },
+    {
+      "path" : "cards/eq_mi8t/Msdv_mi8t.md",
+      "sha256" : "2580041d2358c947ac9bd7b636fc036538688e2792a388e9be353e1442e2a21d",
+      "size" : 4078
+    },
+    {
+      "path" : "cards/eq_mi8t/Msfail_mi8t.md",
+      "sha256" : "2afd9f48bd03a9c0a2102bad1ce166acadcbfe7ceca45398866b042a29c00d81",
+      "size" : 4922
+    },
+    {
+      "path" : "cards/eq_mi8t/Msnorm_mi8t.md",
+      "sha256" : "a1642a430d5a2ee7a6e38db6a705a00400bcc747d4f0a631e39e5504f11aff41",
+      "size" : 3778
+    },
+    {
+      "path" : "cards/eq_mi8t/Msred_mi8t.md",
+      "sha256" : "847bf66cdae12b2707b9783a3e207fd42b1960c1591777566bfa995c43f91fff",
+      "size" : 4198
+    },
+    {
+      "path" : "cards/eq_mi8t/Nv_mi8mt.md",
+      "sha256" : "25d3b942ebb727ca2a1b2b45b4e384c080fde09c22d4ea7a50651e09d51cb878",
+      "size" : 2332
+    },
+    {
+      "path" : "cards/eq_mi8t/Nv_mi8t.md",
+      "sha256" : "735fc38689979659c0ad32028a7b8e059ffc2dc1123919fbe838cd37549eef66",
+      "size" : 2190
+    },
+    {
+      "path" : "cards/eq_mi8t/Ogr_mi8mt.md",
+      "sha256" : "1bb5d51a069490bf6c86a9d6b81af7dd3403d18b2fce7f0bdf62331399e3d670",
+      "size" : 861
+    },
+    {
+      "path" : "cards/eq_mi8t/Ogr_mi8t.md",
+      "sha256" : "9d38d77f79b67af137caab86d68a24ecb163854f854dde00ce706ea65e569f66",
+      "size" : 852
+    },
+    {
+      "path" : "cards/eq_mi8t/Plosh_mi8mt.md",
+      "sha256" : "a020311b2a8d72ed5f3855bd03bb7a00fb8a8516ee47f2203c92b2438efdcab3",
+      "size" : 3562
+    },
+    {
+      "path" : "cards/eq_mi8t/Plosh_mi8t.md",
+      "sha256" : "6076c89f0846d34c092861cc6fae7500230f36c85cfb11dee21c2bcbec9be017",
+      "size" : 5614
+    },
+    {
+      "path" : "cards/eq_mi8t/Pno_mi8t.md",
+      "sha256" : "9ae01a0bac6943351dafb33c3225325164db9c9d6d2647fa55cc79f302087f2b",
+      "size" : 798
+    },
+    {
+      "path" : "cards/eq_mi8t/Podv_mi8t.md",
+      "sha256" : "8dbb73ffb85be141b7cf859629890cdca5d9f43360ee49d62666bc4fcb9b4bf2",
+      "size" : 12662
+    },
+    {
+      "path" : "cards/eq_mi8t/Pos_mi8t.md",
+      "sha256" : "6a785b6e64415f9652d2a5bd0b2ef19a71aee7da47ab7ff735f3c2f42f6864ca",
+      "size" : 1949
+    },
+    {
+      "path" : "cards/eq_mi8t/Posdv_mi8t.md",
+      "sha256" : "c3574d5caef93206b374b4745ac636134aa5e405d346b90a0cc94a7c2d86af95",
+      "size" : 1260
+    },
+    {
+      "path" : "cards/eq_mi8t/Posnorm_mi8t.md",
+      "sha256" : "7abc374c36646cbce0623e9a302d2afe4da454dba5c6a57403ea2551b7bd6e59",
+      "size" : 21515
+    },
+    {
+      "path" : "cards/eq_mi8t/Posnv_mi8t.md",
+      "sha256" : "065f15186cb14cc7da4da66be4ba3d9fc55b8de4eca49c010ba2778f7cc64be7",
+      "size" : 3467
+    },
+    {
+      "path" : "cards/eq_mi8t/Posogr_mi8t.md",
+      "sha256" : "a4adbdfacf3a69f61215cd25ddd04e2550a9b685a691f0d6a120914a12c8808c",
+      "size" : 3409
+    },
+    {
+      "path" : "cards/eq_mi8t/Possign_mi8t.md",
+      "sha256" : "2fd403b262984750e48119c53d6b3611528f3896761731030b16f02ff8503276",
+      "size" : 4322
+    },
+    {
+      "path" : "cards/eq_mi8t/Posst_mi8t.md",
+      "sha256" : "9eb22e6c111bc53bd3ef4d02d1930cd674ef16e1cfcf74d59bb9fea93d01b895",
+      "size" : 950
+    },
+    {
+      "path" : "cards/eq_mi8t/Pps_mi8t.md",
+      "sha256" : "faebf628c4dcd2d043db21d491243f3621fcfaafa8b1a24ed8664167eac16593",
+      "size" : 6537
+    },
+    {
+      "path" : "cards/eq_mi8t/Pto_mi8t.md",
+      "sha256" : "3c03513006124e539880fd8b96e5b97640651861641f38f82604dd954f50d7ff",
+      "size" : 12419
+    },
+    {
+      "path" : "cards/eq_mi8t/Razogr_mi8mt.md",
+      "sha256" : "7e21f764f46ee6b7b5868587463ba651330699a50f8cf1fe08e24c5f24e67113",
+      "size" : 4312
+    },
+    {
+      "path" : "cards/eq_mi8t/Razogr_mi8t.md",
+      "sha256" : "a5e681a9959fc71ab7c05e2a141523ea5f97bde3f7400c9f078721eb94c9af8e",
+      "size" : 4142
+    },
+    {
+      "path" : "cards/eq_mi8t/Redm_mi8mt.md",
+      "sha256" : "2b2dcdf77613b791b12091e442bff403ec390a73f9f138c5fe558fc6a38b0df0",
+      "size" : 1673
+    },
+    {
+      "path" : "cards/eq_mi8t/Reg_mi8t.md",
+      "sha256" : "32f5ccf8591d67f848f1eaa08e0b7eb9b7be87d6b2b85cb09f56e7c004444f65",
+      "size" : 332
+    },
+    {
+      "path" : "cards/eq_mi8t/Ri65_mi8t.md",
+      "sha256" : "6f4d1d8347ae4dd004dbf40d8cf27b113da5f5f1f0ab1549df50d127fb6b25c4",
+      "size" : 7175
+    },
+    {
+      "path" : "cards/eq_mi8t/Rno_mi8t.md",
+      "sha256" : "e20717eefb1270a6b495ab5bd257fbd6c4ebcae450cf398542cbd2f6e7b42a9b",
+      "size" : 437
+    },
+    {
+      "path" : "cards/eq_mi8t/Rso_mi8t.md",
+      "sha256" : "b6e2b640dfa05c2d3f49fb31f6a52526782b1ba866887aad83b62a059ec4e64e",
+      "size" : 486
+    },
+    {
+      "path" : "cards/eq_mi8t/Rv3_mi8t.md",
+      "sha256" : "932f9b4e3e8e74bfab832d0191e2f785f7b0229caca0019ccdce71b637d5585d",
+      "size" : 6172
+    },
+    {
+      "path" : "cards/eq_mi8t/Sarp_mi8t.md",
+      "sha256" : "53993031240ee3bc4d4550b37e644023f94e19c12e68364d841b2ffdf5eb9135",
+      "size" : 7110
+    },
+    {
+      "path" : "cards/eq_mi8t/Sgu15_mi8t.md",
+      "sha256" : "ce598e219ae4bf651aca3a80d9420767705b42ff21f8b509e48b683423b401af",
+      "size" : 4834
+    },
+    {
+      "path" : "cards/eq_mi8t/Shass_mi8t.md",
+      "sha256" : "cd37ad217e0cdf9c91539c92e7fa4f891ff1cbb5a337ab5ae4f4b65c06c30709",
+      "size" : 3506
+    },
+    {
+      "path" : "cards/eq_mi8t/Skor_mi8mt.md",
+      "sha256" : "9b882a196344e4788e0e9390f15b0f7d030c9b82a1b7d76c7cce9e7096ebd9bb",
+      "size" : 8332
+    },
+    {
+      "path" : "cards/eq_mi8t/Skor_mi8t.md",
+      "sha256" : "7c5e99278013fbfb36ddc013a6c2afd859af3c5dc31961eb181013d2a90fdc8c",
+      "size" : 6420
+    },
+    {
+      "path" : "cards/eq_mi8t/Spu71_mi8t.md",
+      "sha256" : "dfa5be2a2e4b7b8a81ddb2920236dbcdcb9664a320e1f5a1c1545b49aa700c53",
+      "size" : 7467
+    },
+    {
+      "path" : "cards/eq_mi8t/Su_mi8t.md",
+      "sha256" : "eefd132a69b45288c12a185806901610a92c4c84fe8ebe2df291a33fbc2474dc",
+      "size" : 429
+    },
+    {
+      "path" : "cards/eq_mi8t/Sufail_mi8t.md",
+      "sha256" : "8c9333c52e15b2c39f4797277294c767d1f9352b01bf4c1d34fc89098d0b3671",
+      "size" : 608
+    },
+    {
+      "path" : "cards/eq_mi8t/Sunorm_mi8t.md",
+      "sha256" : "e1a21a8bf80d39993c791a58e2cf2ed7bc40f21a4809172ad597690dc23bb7a7",
+      "size" : 32258
+    },
+    {
+      "path" : "cards/eq_mi8t/Suopis_mi8t.md",
+      "sha256" : "2424ed702cacaa550cd3a9fdc4446fb70a54c40e4c8c15d20bffe0cbabca82d1",
+      "size" : 18313
+    },
+    {
+      "path" : "cards/eq_mi8t/Svcab_mi8t.md",
+      "sha256" : "e0bb17834689d1bfe92b5ed3af7245ca64c57c82d4a739dc907c146fd453c0c7",
+      "size" : 3400
+    },
+    {
+      "path" : "cards/eq_mi8t/Svet_mi8t.md",
+      "sha256" : "c7d87836d23e20c5fa01943c52089bb9700ffa10ed55239ccd0fd73fcb2a191e",
+      "size" : 1774
+    },
+    {
+      "path" : "cards/eq_mi8t/Svnav_mi8t.md",
+      "sha256" : "a3275e72d70ca388b3272c151321a2a33e036b68162e4c0a4b2e61632bb56f11",
+      "size" : 5518
+    },
+    {
+      "path" : "cards/eq_mi8t/Svnorm_mi8t.md",
+      "sha256" : "a314552fdc061276e2f8a50c4a43286a8ea85e24be471244dcc31ed0caaf9fdb",
+      "size" : 8823
+    },
+    {
+      "path" : "cards/eq_mi8t/Svogr_mi8t.md",
+      "sha256" : "f8bd0f06c7d2d2e01e1a8148b7d947eda0dd82e4305215785e4f8a9269a503cc",
+      "size" : 1304
+    },
+    {
+      "path" : "cards/eq_mi8t/Svpas_mi8t.md",
+      "sha256" : "246c43e91d0660e7aadab324196cbb6080190f1773c380f4c31dc67774f160bc",
+      "size" : 4019
+    },
+    {
+      "path" : "cards/eq_mi8t/Svpos_mi8t.md",
+      "sha256" : "0c5d6fb3589dd6e0041327a174121e53b22145c096ad861d84e3057c93cc307f",
+      "size" : 3723
+    },
+    {
+      "path" : "cards/eq_mi8t/Svsign_mi8t.md",
+      "sha256" : "7721db240718aa6237d20c3f92c9439cdb05e0a6b16ad760e7ee6ae4f6f80c66",
+      "size" : 3921
+    },
+    {
+      "path" : "cards/eq_mi8t/Svtex_mi8t.md",
+      "sha256" : "2cb5d478ae5e586dbf271a0cf47c064996be82bd5ebc66977dbb7d700bdd7858",
+      "size" : 5017
+    },
+    {
+      "path" : "cards/eq_mi8t/Sysohl_mi8t.md",
+      "sha256" : "034c552093ad87f86324be612136e50bd4a309b6fcf0d6cc57e5c8faacdbb213",
+      "size" : 2050
+    },
+    {
+      "path" : "cards/eq_mi8t/Toplsys_mi8t.md",
+      "sha256" : "eadecfedffd5c4efe8778b1b4ded6e297120451a7439d25318edccbbe9f336b0",
+      "size" : 9467
+    },
+    {
+      "path" : "cards/eq_mi8t/Ukvrs_mi8t.md",
+      "sha256" : "9091daf9199ab49ea0080a8cd9166c75ca130e1c08954b5ed484a5b7f4794171",
+      "size" : 7841
+    },
+    {
+      "path" : "cards/eq_mi8t/Upr_mi8t.md",
+      "sha256" : "62fd1a7d62729e2bc6dab770139809972c74e71a4b17a048c5d16aeb1512ccb3",
+      "size" : 4799
+    },
+    {
+      "path" : "cards/eq_mi8t/Vector_mi8t.md",
+      "sha256" : "7bfcb8d1770bf69c9153ab2bc78238ad741bf4103e520f730277c9c4501516e0",
+      "size" : 9920
+    },
+    {
+      "path" : "cards/eq_mi8t/Ventfail_mi8t.md",
+      "sha256" : "c97c515978047b25ac80dc8c1980ed66981226da7285bd34ce8c456f8de9e723",
+      "size" : 2771
+    },
+    {
+      "path" : "cards/eq_mi8t/Ventil_mi8t.md",
+      "sha256" : "5f19092d07be3d001c579c225f677e23496a89c3d6fc8e19d960d4a278f632ef",
+      "size" : 1284
+    },
+    {
+      "path" : "cards/eq_mi8t/Ventnorm_mi8t.md",
+      "sha256" : "11699e880f0cf295bf5ab9feadde9f02283701285c2caec6f4f22d7a83877e05",
+      "size" : 9382
+    },
+    {
+      "path" : "cards/eq_mi8t/Ventopis_mi8t.md",
+      "sha256" : "e605fcae85c5e5fe6bb65eb61f836e44990c5dbb382d6612891956ba204166f7",
+      "size" : 7187
+    },
+    {
+      "path" : "cards/eq_mi8t/Vetr_mi8mt.md",
+      "sha256" : "1ccc81b6f8ff6c9b910afb0300bd5f79ccee01dfc0e3ec5b399a9e2986761117",
+      "size" : 2128
+    },
+    {
+      "path" : "cards/eq_mi8t/Vetr_mi8t.md",
+      "sha256" : "ba172ac949620cc2f30fce5088c01bdebe56525701699dec1cd7fc58b4b0315e",
+      "size" : 2377
+    },
+    {
+      "path" : "cards/eq_mi8t/Vozd_mi8t.md",
+      "sha256" : "989e215550eb117273a67fed80a5147332eeec80fe7053cec357000a902a5efd",
+      "size" : 3295
+    },
+    {
+      "path" : "cards/mi8mt/Agb_mi8mt.md",
+      "sha256" : "d50f8f9858bb756a7526d75bf2a62b0abd2207ccce19ec84504edf1881251e2e",
+      "size" : 1072
+    },
+    {
+      "path" : "cards/mi8mt/Agbcard_mi8mt.md",
+      "sha256" : "c4df94861985812fbd6475d65634ced8bbbb6e24c58d4031f7a81384e3a494e4",
+      "size" : 1763
+    },
+    {
+      "path" : "cards/mi8mt/Agbl_mi8mt.md",
+      "sha256" : "8060ba6b1fa733f0e084990cbb5396bef25b4c8ea3445949803ec92c5dd06d58",
+      "size" : 1840
+    },
+    {
+      "path" : "cards/mi8mt/Agblcard_mi8mt.md",
+      "sha256" : "6ca53d8749bfa0895a2aeabe3a49bdcfc36ad83efcd699895c765c0fb9612b6e",
+      "size" : 3886
+    },
+    {
+      "path" : "cards/mi8mt/Akb1_mi8mt.md",
+      "sha256" : "8b4c19dc9c1cd16af11e1712a039d009ee72d32279bfaf62abc6da0c6056c79d",
+      "size" : 2878
+    },
+    {
+      "path" : "cards/mi8mt/Akb2_mi8mt.md",
+      "sha256" : "c2f986e609d5deeb86c349ce6651a002e5506a8b283c91ffc3191be302c14c2a",
+      "size" : 1832
+    },
+    {
+      "path" : "cards/mi8mt/Akb2card_mi8mt.md",
+      "sha256" : "146d04581717abe4a23f4e0f4ca81b142cf060c9132d74aa7dce652155405918",
+      "size" : 3617
+    },
+    {
+      "path" : "cards/mi8mt/Av270_mi8mt.md",
+      "sha256" : "80f3e9d34e6eae306b449c8b41d2a1fc8cd538b98367353ba96a516e5734dcc7",
+      "size" : 1256
+    },
+    {
+      "path" : "cards/mi8mt/Av270card_mi8mt.md",
+      "sha256" : "6c3f5761f0af2327b40522b384299d2cacd1b8142374d649014565b62c828e34",
+      "size" : 2757
+    },
+    {
+      "path" : "cards/mi8mt/Av_mi8amt.md",
+      "sha256" : "6b36c2d05f89fb1f2db53c6765a28ff1fae82bda573d0d0521d25ca61b0d4060",
+      "size" : 4154
+    },
+    {
+      "path" : "cards/mi8mt/Bkk_mi8mt.md",
+      "sha256" : "7744ce133e64e77383e86b49caa091afbb97bddbc5f4584ecae2166dee0c677b",
+      "size" : 2426
+    },
+    {
+      "path" : "cards/mi8mt/Bm_mi8mt.md",
+      "sha256" : "96b81cd1df13fb4bf30fded9ff11adea8246fcd4640fbee7bee5fbe028813622",
+      "size" : 3341
+    },
+    {
+      "path" : "cards/mi8mt/Ch_mi8mt.md",
+      "sha256" : "02a735b3f1b38db3eb0d800d9abfa5c87a1046bb0d680fea0897668043304968",
+      "size" : 746
+    },
+    {
+      "path" : "cards/mi8mt/Clap_mi8mt.md",
+      "sha256" : "9f28a32c867c36027adb2425963faf34ff2273e2f72ae01cf6e30b16ab1b4a8e",
+      "size" : 1078
+    },
+    {
+      "path" : "cards/mi8mt/Clin.md",
+      "sha256" : "49943a8b9e45668ae83194dc3d6a182d9f2b2bcaa5d2d4a121fb489d63524630",
+      "size" : 926
+    },
+    {
+      "path" : "cards/mi8mt/Cop_mi8mt.md",
+      "sha256" : "5a875dc3506476fd9986036bed91a11ee8b6ab452464fb574a74bd992ac6ee48",
+      "size" : 2363
+    },
+    {
+      "path" : "cards/mi8mt/Davl_mi8mt.md",
+      "sha256" : "b2862429e041fd91c60b24e4baf2c9186e68f8e31a6495dbc9435f546688eb5e",
+      "size" : 1716
+    },
+    {
+      "path" : "cards/mi8mt/Davlcard_mi8mt.md",
+      "sha256" : "4b6f34b8f2bf4a65afd835c17028aec313db785dff2335515fe72344dd52a5c3",
+      "size" : 3428
+    },
+    {
+      "path" : "cards/mi8mt/Difr.md",
+      "sha256" : "4c5cb436b875bf7edd9377f31779796a8aed900425855e97a62fc46503542d89",
+      "size" : 744
+    },
+    {
+      "path" : "cards/mi8mt/Dv1100_mi8mt.md",
+      "sha256" : "1c4750b103caf072b6418e35d2b6aa5536a340646813812c547f02f655070aa2",
+      "size" : 2733
+    },
+    {
+      "path" : "cards/mi8mt/Dv199_mi8mt.md",
+      "sha256" : "d0f3b88abb14d3ebd96d7dff2176272947b9e54aba2c0277e0a1425f59f275de",
+      "size" : 1314
+    },
+    {
+      "path" : "cards/mi8mt/Dv1_mi8mt.md",
+      "sha256" : "517489e94e2c59fcefaa96c752aea7cc1aba1b8080c2d5fc0c59ff10414a203e",
+      "size" : 3961
+    },
+    {
+      "path" : "cards/mi8mt/Dv1card_mi8mt.md",
+      "sha256" : "8a9dc1fe803e887a10dfdab87dd38f5f9c036714dafdc94a283d26659567a16d",
+      "size" : 7703
+    },
+    {
+      "path" : "cards/mi8mt/Dv1vis110_mi8mt.md",
+      "sha256" : "6e30c6241ea9d3e48498164d135ad8415078463c7af61ead207022909c07270f",
+      "size" : 1060
+    },
+    {
+      "path" : "cards/mi8mt/Dv1vis5_mi8mt.md",
+      "sha256" : "13064f77db5f6551a46388854166fb329317c0a42ed4d2bdef860b1f12a01030",
+      "size" : 972
+    },
+    {
+      "path" : "cards/mi8mt/Dv1vis_mi8mt.md",
+      "sha256" : "e0d6c465dfe2dfea077bfbe7113db32950ad52af008447dfe8f41fab10c3090b",
+      "size" : 1204
+    },
+    {
+      "path" : "cards/mi8mt/Dv1vzl11_mi8mt.md",
+      "sha256" : "fdfab196985242322d14bafc247b15ce9e2b7d01ffb4ff33e63a0c67cf9bc499",
+      "size" : 1874
+    },
+    {
+      "path" : "cards/mi8mt/Dv1vzl9_mi8mt.md",
+      "sha256" : "076ed072a1c4f314ba18b778a615ca734075e7b1c753dc99be766a7b616ef462",
+      "size" : 1627
+    },
+    {
+      "path" : "cards/mi8mt/Dv1vzl_mi8mt.md",
+      "sha256" : "f5e65299cacbd4a604519fcf3c8691743b8f9c0e6119a997971ff35f6de5e910",
+      "size" : 1388
+    },
+    {
+      "path" : "cards/mi8mt/Dv2_mi8mt.md",
+      "sha256" : "c1a5d4d32afa5f105bd68e2579ac696844fac66159930ce2dae374beab473d78",
+      "size" : 1701
+    },
+    {
+      "path" : "cards/mi8mt/Dv2bezprob_mi8mt.md",
+      "sha256" : "9a44979e3ea6d54cf9b9952499499091f2d035305a05d0addd870b4a772a1e2d",
+      "size" : 4740
+    },
+    {
+      "path" : "cards/mi8mt/Dv2card_mi8mt.md",
+      "sha256" : "b9e711fc218a347cdcb912e3e6501c6b41010a15cea0e0558e7cf617560df0a9",
+      "size" : 4471
+    },
+    {
+      "path" : "cards/mi8mt/Dv2prob_mi8mt.md",
+      "sha256" : "d8a37b7bd7d8090474c8672c56404a56a31b5631e4237a361494874230757015",
+      "size" : 3467
+    },
+    {
+      "path" : "cards/mi8mt/Dvtg_mi8mt.md",
+      "sha256" : "94199d32b959bf8285319d79ff0feb28f51298e54ab8b33d121e19dc7e8fe5c4",
+      "size" : 1452
+    },
+    {
+      "path" : "cards/mi8mt/Dvtgcard_mi8mt.md",
+      "sha256" : "0bb4eee48bf534f5d104810b9c47e8f42bdabcc90ccfdd3509c641fd730ee80d",
+      "size" : 2430
+    },
+    {
+      "path" : "cards/mi8mt/Eo_mi8mt.md",
+      "sha256" : "bb57af0b3a5c740f455c29a723e814daf4682d8151e5a9508fafef56b3a401a4",
+      "size" : 2571
+    },
+    {
+      "path" : "cards/mi8mt/Erd_mi8mt.md",
+      "sha256" : "7aa601becbf2e88364e4a78b11b2010d490e48050a2104be684ff8cbbf14218e",
+      "size" : 1692
+    },
+    {
+      "path" : "cards/mi8mt/Erddif_mi8mt.md",
+      "sha256" : "cf5d5e909146eaedba2496135813c933010c9c2583ff900a34b970a88c46e378",
+      "size" : 2906
+    },
+    {
+      "path" : "cards/mi8mt/Erddop_mi8mt.md",
+      "sha256" : "af0fa3e764f953333dcdb3e9a95798385158db93710713830e082786351805c9",
+      "size" : 2622
+    },
+    {
+      "path" : "cards/mi8mt/Erdmax_mi8mt.md",
+      "sha256" : "d63601239a31f52e2ad4657f6df77679638ea4011bd60992e4cc2165b1a1b892",
+      "size" : 3261
+    },
+    {
+      "path" : "cards/mi8mt/Erdst_mi8mt.md",
+      "sha256" : "a3aabd9e885d68cd7885568c64e93e687ecfad2b47e06e5b5a1bca1e0a100670",
+      "size" : 1478
+    },
+    {
+      "path" : "cards/mi8mt/Gen2_mi8mt.md",
+      "sha256" : "b6fc89f940b60d868ad6637f4ad33499ac51cff4184a497d4dd57806b9af9828",
+      "size" : 1714
+    },
+    {
+      "path" : "cards/mi8mt/Gen2card_mi8mt.md",
+      "sha256" : "0e57b3bfdfb62f0e17c6f6f7a7d965cfb6ec0045b575e2ff613f0eac25d96a21",
+      "size" : 5071
+    },
+    {
+      "path" : "cards/mi8mt/Gen2s_mi8mt.md",
+      "sha256" : "e16b32c54978a21b8e29bb54a375913ef11012859180aca06aa1d2e05c1eecfb",
+      "size" : 5903
+    },
+    {
+      "path" : "cards/mi8mt/Gk1.md",
+      "sha256" : "03db026002af4eadd436b483717f2a672e4ac1774be88788a36615813ec9e072",
+      "size" : 1192
+    },
+    {
+      "path" : "cards/mi8mt/Gruz_mi8mt.md",
+      "sha256" : "3f68555c3cb11d6aea434a2d84d449142590d1937914f6b0cef2f2d1b21be1be",
+      "size" : 1636
+    },
+    {
+      "path" : "cards/mi8mt/Kpv_mi8mt.md",
+      "sha256" : "57aa12a9f8ffa62933b18f4c87539f05c7814dd5f230d314d8a2bf7807b753f0",
+      "size" : 1396
+    },
+    {
+      "path" : "cards/mi8mt/Kvs_mi8mt.md",
+      "sha256" : "e42342d36fe2b77566d10883fa0bb480f0d1e42616961db467545d19e6eead60",
+      "size" : 2918
+    },
+    {
+      "path" : "cards/mi8mt/Lpg_mi8mt.md",
+      "sha256" : "11db69aa3fdcaf12649bdaac6676888d2490351552d9ddd892604252591d784c",
+      "size" : 4167
+    },
+    {
+      "path" : "cards/mi8mt/Mel_mi8mt.md",
+      "sha256" : "9aea752a6c706aecc3f0e745d4e6bebffd3a485c32a51eb8047e4eef1537b3e2",
+      "size" : 1717
+    },
+    {
+      "path" : "cards/mi8mt/Nas1_mi8mt.md",
+      "sha256" : "990afc4761e564d6f320729dac230726665c1dc331d6014c2ead63d1adcd17b4",
+      "size" : 1763
+    },
+    {
+      "path" : "cards/mi8mt/Niz_mi8mt.md",
+      "sha256" : "b9514f7ddbeb744c2b133cee5f77cecc09433e2348951393db6cdc84cb261db4",
+      "size" : 4275
+    },
+    {
+      "path" : "cards/mi8mt/Oclap_mi8mt.md",
+      "sha256" : "88499b49c3ea20a91468185721b9c3b72045e6a51ef6b0686c7e5dfa308b7ec4",
+      "size" : 2238
+    },
+    {
+      "path" : "cards/mi8mt/Ogs2tab.md",
+      "sha256" : "6f39a997c87b403cf9a3c2832ddaedc07e60fa611312cf66b1096a6adeda6cf3",
+      "size" : 1210
+    },
+    {
+      "path" : "cards/mi8mt/Ogs_mi8mt.md",
+      "sha256" : "5c75d5c767a39fa9ef8a7446071e5897a19562f3f1dce88f6d9fd093b0c01234",
+      "size" : 1493
+    },
+    {
+      "path" : "cards/mi8mt/Ogscard_mi8mt.md",
+      "sha256" : "ed145f7401a33b731a8ba505484d56071cf080df44d69f15708a1cd4f9295990",
+      "size" : 3817
+    },
+    {
+      "path" : "cards/mi8mt/Opz_mi8mt.md",
+      "sha256" : "940027c836d2ae2e173fd258e44d79d4190c01b33f5030e544877c72e2ab6387",
+      "size" : 1776
+    },
+    {
+      "path" : "cards/mi8mt/Pernas_mi8mt.md",
+      "sha256" : "195cf9392ee883e1387958ba4217a1a0bc864aa7117dd00c624e180ea4aa4a8b",
+      "size" : 1711
+    },
+    {
+      "path" : "cards/mi8mt/Pernascard_mi8mt.md",
+      "sha256" : "d4a4a88d6d0424ae2cb10f57bab49bd208957723f329089fec8811df7bd420e7",
+      "size" : 2435
+    },
+    {
+      "path" : "cards/mi8mt/Pno_mi8mt.md",
+      "sha256" : "90af4d7714596a5e3aba40775ca5513db2858551c29670bfc89607776f1d67b1",
+      "size" : 4537
+    },
+    {
+      "path" : "cards/mi8mt/Podnas_mi8mt.md",
+      "sha256" : "3b117ed60c4c9b930cbc7bccad1b2bde1e3974b6d2bbb444b76fb59d82908cad",
+      "size" : 1150
+    },
+    {
+      "path" : "cards/mi8mt/Podnascard_mi8mt.md",
+      "sha256" : "16711f142197c63d1e3b1a0993a9919d9dc5e2a766dc85c9ddbcb89ce19e070b",
+      "size" : 1893
+    },
+    {
+      "path" : "cards/mi8mt/Pojdv_mi8mt.md",
+      "sha256" : "6f2eb2571a94323ad598f98c2111cc16d0b76658d2b7c7ce37726947c29a29b5",
+      "size" : 3840
+    },
+    {
+      "path" : "cards/mi8mt/Pojdvcard_mi8mt.md",
+      "sha256" : "b939147502bf9e43aa206e59ec0b94665949815d58428f78a1e8b4ec546ad28b",
+      "size" : 6962
+    },
+    {
+      "path" : "cards/mi8mt/Pojgk_mi8mt.md",
+      "sha256" : "36574711e01378fe8d140b2342f4405eadb3e04423d56155cc47adf044139aef",
+      "size" : 2711
+    },
+    {
+      "path" : "cards/mi8mt/Pojgkcard_mi8mt.md",
+      "sha256" : "f25604661157c24f871877aafd3904fa1a591098b50d83032940b77abb59c3f5",
+      "size" : 5497
+    },
+    {
+      "path" : "cards/mi8mt/Pojko50_mi8mt.md",
+      "sha256" : "ecc5f9e5c02135440f1cd1beb4b0230ea87561ef286bedc5b5c6bb74aaecb1f8",
+      "size" : 3224
+    },
+    {
+      "path" : "cards/mi8mt/Pojko50card_mi8mt.md",
+      "sha256" : "f63978add674585f8daf5058e1e538d1859442731e9676d40fb5d417043e18a6",
+      "size" : 5559
+    },
+    {
+      "path" : "cards/mi8mt/Pojred_mi8mt.md",
+      "sha256" : "7395bee000729f14a83f5d44a7696ffb564a7da2cd8e47e5b0fd4bfc9836904f",
+      "size" : 3299
+    },
+    {
+      "path" : "cards/mi8mt/Pojredcard_mi8mt.md",
+      "sha256" : "b14a8fb808deb0dd6873c3c9038f4064a6d3202edd37842bf540d2a56100827a",
+      "size" : 5463
+    },
+    {
+      "path" : "cards/mi8mt/Pojxz_mi8mt.md",
+      "sha256" : "e49653b6bba17ec10b2ec8b797d1ebb9cb0e1a8bf0bace104959fdedacb1e9dc",
+      "size" : 2655
+    },
+    {
+      "path" : "cards/mi8mt/Pojxzcard_mi8mt.md",
+      "sha256" : "68f1f7098d6a8abc0e5f5f0aea9988b49da82bc77a2611d2d01f632d097a7879",
+      "size" : 5023
+    },
+    {
+      "path" : "cards/mi8mt/Pojzem_mi8mt.md",
+      "sha256" : "01e8908d4bc83f11b730713d342d1cb6c42dd85c9bb2e8dad1aa88a138076cc0",
+      "size" : 3665
+    },
+    {
+      "path" : "cards/mi8mt/Pojzemcard_mi8mt.md",
+      "sha256" : "1f3f9870154f0794d1b387eedeafe99295e727edb982b97c6b9f1490b672fb12",
+      "size" : 5216
+    },
+    {
+      "path" : "cards/mi8mt/Pompaj_mi8mt.md",
+      "sha256" : "5c41f719523f66f844f2d05ff1fb15038e2791a5ebc0e81416da34a5b9f7dd2e",
+      "size" : 2860
+    },
+    {
+      "path" : "cards/mi8mt/Pompajcard_mi8mt.md",
+      "sha256" : "e818057569cc9e0f58dd8a4dd2b626458c024c296a3b6ba3ddbfeeac06cf9879",
+      "size" : 5869
+    },
+    {
+      "path" : "cards/mi8mt/Pos_mi8mt.md",
+      "sha256" : "90f92f21538dc5d152c0dfd8c428c8728986fe83e9200439d2a7fb2834dff391",
+      "size" : 1817
+    },
+    {
+      "path" : "cards/mi8mt/Pu_mi8mt.md",
+      "sha256" : "48a359d308e98d58d81852be0b6776d1ddb99fb8af604653980ef8151937da4e",
+      "size" : 1386
+    },
+    {
+      "path" : "cards/mi8mt/Pucard_mi8mt.md",
+      "sha256" : "193f445f8c9b509ec5793b92d17dc23a2ce52b6a71dfc0e508c4eb04aad41148",
+      "size" : 4371
+    },
+    {
+      "path" : "cards/mi8mt/Pufull_mi8mt.md",
+      "sha256" : "8d814cf6fada50111cafbe4e92de2eea3b074b28255aa7ae8d90919651bd3dd3",
+      "size" : 1586
+    },
+    {
+      "path" : "cards/mi8mt/Pufullcard_mi8mt.md",
+      "sha256" : "4277cfe523b62e3226cc29ef1148278b48db6392d65e8d73da0bdfea5b7a1934",
+      "size" : 3077
+    },
+    {
+      "path" : "cards/mi8mt/Puvis_mi8mt.md",
+      "sha256" : "974451e1f834e1664d1df3ba847e7d4a86dbf0c29cc3e4d1c8a36637e06b160d",
+      "size" : 2051
+    },
+    {
+      "path" : "cards/mi8mt/Red_mi8mt.md",
+      "sha256" : "df5218ca1600a3bd7eceddbdc6fbb953e26d39479c079cd01151b47b39969fa6",
+      "size" : 2830
+    },
+    {
+      "path" : "cards/mi8mt/Redcard_mi8mt.md",
+      "sha256" : "eddaf1d4a22fe2582203656725e757179ae89f8b04e787234660956c0cb6afec",
+      "size" : 5926
+    },
+    {
+      "path" : "cards/mi8mt/Sar_mi8mt.md",
+      "sha256" : "9d730cee26a886cbee4b7f7e7520637c7ed746d982b2d46d2ee47a20595f7e52",
+      "size" : 2511
+    },
+    {
+      "path" : "cards/mi8mt/Sartk_mi8mt.md",
+      "sha256" : "c3d8b8c3e57bf86ccabc3cfd8b59c25f701714819988833c817555b6d78a29ef",
+      "size" : 1320
+    },
+    {
+      "path" : "cards/mi8mt/Sarvil_mi8mt.md",
+      "sha256" : "5f6e9179bb1340c95703c1336ffeb4cc18591984a784e694f16f1f1b804a3296",
+      "size" : 6709
+    },
+    {
+      "path" : "cards/mi8mt/Sbros_mi8mt.md",
+      "sha256" : "750939355e433d9da94776085b4b2e84c5d002dc166f0538b2036785cfaa2cf7",
+      "size" : 562
+    },
+    {
+      "path" : "cards/mi8mt/Sbroscard_mi8mt.md",
+      "sha256" : "3ac2d78ec30460c6ac5959861167bade9a3b336c5a93ff697d8406e6ad34badf",
+      "size" : 4890
+    },
+    {
+      "path" : "cards/mi8mt/Strujdv_mi8mt.md",
+      "sha256" : "b708bd7f047e6626161467ff6dbb0fea32eb564ce326d4c0c02f8636093b90c7",
+      "size" : 1804
+    },
+    {
+      "path" : "cards/mi8mt/Strujdvcard_mi8mt.md",
+      "sha256" : "4016354147bb6ebeb474c33856f8ad06dda08a8e94d632dafa0d78b937af45aa",
+      "size" : 3548
+    },
+    {
+      "path" : "cards/mi8mt/Susha_mi8mt.md",
+      "sha256" : "f79795816c1108cdb77a9023afcb824610a4442ecddd67690fefbb680d00c9f1",
+      "size" : 956
+    },
+    {
+      "path" : "cards/mi8mt/Sushacard_mi8mt.md",
+      "sha256" : "304ef3419240a64397f29986e7bffaa356efca1073d6b26dbb3d2a37dd0282a9",
+      "size" : 8227
+    },
+    {
+      "path" : "cards/mi8mt/Tf_mi8mt.md",
+      "sha256" : "0c9309618de31a66b22372ce2d7644ff2e1d416700d3603d5ae40d44cb453e05",
+      "size" : 1048
+    },
+    {
+      "path" : "cards/mi8mt/Tfcard_mi8mt.md",
+      "sha256" : "a0d6a773795c45f207c3c3d85a1dd1ac5d48af8334f8a81cebfdd1470d6b5a3f",
+      "size" : 1755
+    },
+    {
+      "path" : "cards/mi8mt/Udar_mi8mt.md",
+      "sha256" : "f2a8906dcc09510cbcf9f07248bf22d21f748a1619bbe94c65a70d01d3b07eef",
+      "size" : 1023
+    },
+    {
+      "path" : "cards/mi8mt/Udarcard_mi8mt.md",
+      "sha256" : "dcfbf95e8cd9e05d91f9e39125b08fa99aec3bfdb832858208f847d5180d5d43",
+      "size" : 3465
+    },
+    {
+      "path" : "cards/mi8mt/Us2_mi8mt.md",
+      "sha256" : "26cbc273fd8641e8429389e5720bde0013e3cf39d8e4c57b7dec0bfb0f3e69c1",
+      "size" : 1500
+    },
+    {
+      "path" : "cards/mi8mt/Us2card_mi8mt.md",
+      "sha256" : "396268b26a418adef592ceb75f3459e2809566166d1d810fa8f947a0af355b0c",
+      "size" : 3826
+    },
+    {
+      "path" : "cards/mi8mt/Vibr_mi8mt.md",
+      "sha256" : "cd7b23bc17cb1f87d47e413cbe21dff249cb26d2cc7daccd5aa86f81180757cf",
+      "size" : 1542
+    },
+    {
+      "path" : "cards/mi8mt/Vibrcard_mi8mt.md",
+      "sha256" : "a9ea5c1a364e0f229f52d1d770c29c76698bc6fb80531a060fdc18ec116700aa",
+      "size" : 2946
+    },
+    {
+      "path" : "cards/mi8mt/Vibrp_mi8mt.md",
+      "sha256" : "da8598fe8c346041a815bf711650b8f534f82c268bdfe0577d633b7e286d3eff",
+      "size" : 908
+    },
+    {
+      "path" : "cards/mi8mt/Vk_mi8mt.md",
+      "sha256" : "b39685b505c4e70c23956868f8b56f648cf556f7f8a9710e679bca055f7cadc1",
+      "size" : 2159
+    },
+    {
+      "path" : "cards/mi8mt/Vkcard_mi8mt.md",
+      "sha256" : "884e1f666c3fe938c2c1678398fd39887628fdd279b125de59de70d2a2d1fa8b",
+      "size" : 2621
+    },
+    {
+      "path" : "cards/mi8mt/Voda_mi8mt.md",
+      "sha256" : "f6eeaaa42df02f4a78dd4a30dc8b9c27bf1ebedb7fea5b05142482f02cc1902e",
+      "size" : 1673
+    },
+    {
+      "path" : "cards/mi8mt/Vodacard_mi8mt.md",
+      "sha256" : "d3fa5473b4fb5b1a943864d337c481ce527e52dbfb2d45889e4b519fd74e4319",
+      "size" : 10198
+    },
+    {
+      "path" : "cards/mi8mt/Zclap_mi8mt.md",
+      "sha256" : "29535d2711ac7ac0c78fe6e59279a97ef53a1a5a62774f340cd907e6ca75682e",
+      "size" : 1829
+    },
+    {
+      "path" : "cards/mi8mt/Zem_mi8mt.md",
+      "sha256" : "ed14dff904d871f620b5b97cabe72249d434f88ab71e41478d8ececc3f45dc2d",
+      "size" : 1600
+    },
+    {
+      "path" : "cards/mi8mt/Zemcard_mi8mt.md",
+      "sha256" : "d4279d19474c8f6856010d2278d9f0599ce03aa7f3be3e3b4a2e233f3b15f2ba",
+      "size" : 2664
+    },
+    {
+      "path" : "cards/mi8mt/Zud.md",
+      "sha256" : "23558c8236b288169e3135e46bb371051f64a256f3c848a6ada5e99475e5948f",
+      "size" : 484
+    },
+    {
+      "path" : "cards/mi8t/Agb_mi8t.md",
+      "sha256" : "5324c3896c651bbfddbd54b19c97b2c412dbd372cf8949d1a9e7947dc2748eac",
+      "size" : 1849
+    },
+    {
+      "path" : "cards/mi8t/Ano_mi8t.md",
+      "sha256" : "55285a58a6333fcda2965afaf7fe8a7eb1ce682685aa4df3bb75caea10c3ce85",
+      "size" : 379
+    },
+    {
+      "path" : "cards/mi8t/Ark_mi8t.md",
+      "sha256" : "48884edd26539798aac8583935c3e1eadb6f969553235cb98c010c987706e14b",
+      "size" : 435
+    },
+    {
+      "path" : "cards/mi8t/Av270_mi8t.md",
+      "sha256" : "06005e145720a9d1234c2bfc7a88bc5dcfa3868c5b9dd7425b84db562e724d7c",
+      "size" : 1597
+    },
+    {
+      "path" : "cards/mi8t/Av_card_mi8t.md",
+      "sha256" : "b73da6f9f2d3923ac32696be62f3841fecc90b54f8832206ae81c04633de8ddd",
+      "size" : 3766
+    },
+    {
+      "path" : "cards/mi8t/Clap_mi8t.md",
+      "sha256" : "90b91bea552de5518a93515b5740bb7c8193887c2d72bc22beea4a99da8e6aed",
+      "size" : 2698
+    },
+    {
+      "path" : "cards/mi8t/Drenaj_mi8t.md",
+      "sha256" : "4dfeaa72e429f2138da932bcd133151a87c33ebf219edfb762a8f6858e6f5e22",
+      "size" : 1606
+    },
+    {
+      "path" : "cards/mi8t/Dv1_mi8t.md",
+      "sha256" : "244eb7959fb6985deb4dbd873d5c5cee84baf0bb35b0fbe3006529a10e39d01a",
+      "size" : 8955
+    },
+    {
+      "path" : "cards/mi8t/Dv1card_mi8t.md",
+      "sha256" : "a4c0d095a93a262be6260f0945ff9d56f7259c1dd24f06a935bdbef35017ce03",
+      "size" : 3509
+    },
+    {
+      "path" : "cards/mi8t/Dv1glis_mi8t.md",
+      "sha256" : "2eceb120f87a8c351bc898da74627ccde19526702a74c842794e52f84b55a4cc",
+      "size" : 2666
+    },
+    {
+      "path" : "cards/mi8t/Dv1mal55_mi8t.md",
+      "sha256" : "af0654a96a52df8b59e9d89b512d90c8d1acd5945b38f9a1713fd1a8f962ff85",
+      "size" : 684
+    },
+    {
+      "path" : "cards/mi8t/Dv1mal5_mi8t.md",
+      "sha256" : "ddc91347c237302a290a1cc378770ab8e0eb4b4066db684e24fdbdd213bada0e",
+      "size" : 1082
+    },
+    {
+      "path" : "cards/mi8t/Dv1mal_mi8t.md",
+      "sha256" : "d453caeba0695c51b41026cf9599e78404e43bfdb5a8da1d65b5dd84109b7f59",
+      "size" : 9287
+    },
+    {
+      "path" : "cards/mi8t/Dv1malcard_mi8t.md",
+      "sha256" : "743af3e4f15ee392e19265774c5026eda6d9acf54b5c257d2d6241e8b3757e13",
+      "size" : 2016
+    },
+    {
+      "path" : "cards/mi8t/Dv1malglis_mi8t.md",
+      "sha256" : "3c3bbb81b0713a23026a01485241a656a82bb8748cdc124306cc1b321b9bab22",
+      "size" : 2246
+    },
+    {
+      "path" : "cards/mi8t/Dv2_mi8t.md",
+      "sha256" : "49c823af02e2d0721a5481cab07f1e0cbcf12682eda4613183ee956adecaf8fa",
+      "size" : 11946
+    },
+    {
+      "path" : "cards/mi8t/Dv2bezprob_mi8t.md",
+      "sha256" : "26bf5bee0ddbc856756838f2b1080193c0760a1d15b9a0d5e72aacbb556fbe2f",
+      "size" : 2429
+    },
+    {
+      "path" : "cards/mi8t/Dv2card_mi8t.md",
+      "sha256" : "7f451c9c784f403cef1eafd79a682f7eb1f730832e918e31c01b199d85a4721a",
+      "size" : 1924
+    },
+    {
+      "path" : "cards/mi8t/Dv2prob_mi8t.md",
+      "sha256" : "b3a99f40fbd28727d5e7f784a8410d228e25ee9808aba3ccc948387acaf2b428",
+      "size" : 2074
+    },
+    {
+      "path" : "cards/mi8t/Ecn75_mi8t.md",
+      "sha256" : "f32c930de8935fe0eb091b64ea8fefade9a99c2402fe249fa163866290f09d8d",
+      "size" : 430
+    },
+    {
+      "path" : "cards/mi8t/Emt2_mi8t.md",
+      "sha256" : "38c1632368abed2a932836f84f731381cce69de7318be740aa9ad9195003ee62",
+      "size" : 732
+    },
+    {
+      "path" : "cards/mi8t/Gen1_mi8t.md",
+      "sha256" : "6ab9cdce5268a2a05b1288f30542a1c180c4a0a2aba862cdb14531a0e5c7bd55",
+      "size" : 921
+    },
+    {
+      "path" : "cards/mi8t/Gen2_mi8t.md",
+      "sha256" : "3d30091086910e02c087eadd06b46b6f83b63b22a8adb3ef21a8efd2cd471963",
+      "size" : 2030
+    },
+    {
+      "path" : "cards/mi8t/Gen2card_mi8t.md",
+      "sha256" : "1ead6475308e06abcaf458d986268439f6fc9d240e6ec0faa201e8fa6e04058d",
+      "size" : 1622
+    },
+    {
+      "path" : "cards/mi8t/Genper1_mi8t.md",
+      "sha256" : "7df1e2f270d8c10d95a91afc8c09dffc4e5650f4028cf8e44b9c4299e4b1479a",
+      "size" : 442
+    },
+    {
+      "path" : "cards/mi8t/Genper_mi8t.md",
+      "sha256" : "23aee7c701c4e6483fe5bc0b9dfb2837afaf804234179f7c9aa7aa2783af4cb7",
+      "size" : 2126
+    },
+    {
+      "path" : "cards/mi8t/Genpost_mi8t.md",
+      "sha256" : "aaf64d1b7a4735c690ea60df5f807732c52a848aba4a8fa6b07dea8bb387089b",
+      "size" : 441
+    },
+    {
+      "path" : "cards/mi8t/Ki13_mi8t.md",
+      "sha256" : "ff452ba3cf68642bc6022cf5e7d92051879ec19ce6928afc7419758f6283bab7",
+      "size" : 395
+    },
+    {
+      "path" : "cards/mi8t/Ko50_mi8t.md",
+      "sha256" : "dec74cd9deb22d526d80e84921b234a19af2c94051c629eb824942ccb81b2746",
+      "size" : 543
+    },
+    {
+      "path" : "cards/mi8t/Kv_mi8t.md",
+      "sha256" : "90934007fe991b8ed10e60ed86ffa7dec7312cf2252330a7a19cc70dc2ed8e79",
+      "size" : 407
+    },
+    {
+      "path" : "cards/mi8t/Lamp_mi8t.md",
+      "sha256" : "09ebbbb8266c4d8c7c6e5a723d64fdc5ee0fd3c78b1f33727ae674c74ddbf916",
+      "size" : 452
+    },
+    {
+      "path" : "cards/mi8t/Mak_mi8t.md",
+      "sha256" : "74226818692618e892ee6254cd35345308a1b65e94acdceeb88a3a4a3d6adbd3",
+      "size" : 416
+    },
+    {
+      "path" : "cards/mi8t/Mel_mi8t.md",
+      "sha256" : "f75632e9f3cd432b006fec6ba7d45ab9c6af1ce88d10e98ef5008d6fed655b29",
+      "size" : 4552
+    },
+    {
+      "path" : "cards/mi8t/Nas1rb_mi8t.md",
+      "sha256" : "95a55abebfcd70bac6490abfc780b14e632c596971eae37778d906f8dcc12475",
+      "size" : 427
+    },
+    {
+      "path" : "cards/mi8t/Nas2rb_mi8t.md",
+      "sha256" : "60d2e04fd5115fc001b0bf9fb35d7106720bfaaabd735e9a158b32f789e83d1f",
+      "size" : 3350
+    },
+    {
+      "path" : "cards/mi8t/Nas2rbcard_mi8t.md",
+      "sha256" : "3ed2a22b5250daadd81fe382e060c0079eab7aef6010d38e8c34b7177276416e",
+      "size" : 2805
+    },
+    {
+      "path" : "cards/mi8t/Nfv_mi8t.md",
+      "sha256" : "c275281ec4b1b499e387effc07ddfa65c316f03a2598eff17d8c9d3e01880007",
+      "size" : 2555
+    },
+    {
+      "path" : "cards/mi8t/Ogs_mi8t.md",
+      "sha256" : "16b9059481e16b301627b62b0a3a0fcb62f5ea544d88d34d07f21471d50d28ea",
+      "size" : 5305
+    },
+    {
+      "path" : "cards/mi8t/Ogscard_mi8t.md",
+      "sha256" : "c45d44528ae927632e19f526677f835a1a607536558de597c02688d31ec33227",
+      "size" : 1796
+    },
+    {
+      "path" : "cards/mi8t/Ogsclin_mi8t.md",
+      "sha256" : "2413cab9a3b0b2433514bedcf0243781ef71f29d52eec5c80d325e0ff928d0b2",
+      "size" : 1737
+    },
+    {
+      "path" : "cards/mi8t/Ogsdifr_mi8t.md",
+      "sha256" : "95238a02d36abc849bfaf7a942400e1d7eeb32eb2ad927703bca5914931d333e",
+      "size" : 1050
+    },
+    {
+      "path" : "cards/mi8t/Ogszud_mi8t.md",
+      "sha256" : "b07cab71735f688c889c340fa9c548702cc55effdfbf43af41dda6cdd3c11915",
+      "size" : 885
+    },
+    {
+      "path" : "cards/mi8t/Opvibr_mi8t.md",
+      "sha256" : "15c5c69674e56328a904ba8af8a0c90d2258e48163ef30bd9c31757d7f90b0b4",
+      "size" : 3602
+    },
+    {
+      "path" : "cards/mi8t/Opvibrcard_mi8t.md",
+      "sha256" : "50d35772c3e63cdce501d04e016474980c086978a5dfd0dde9d8dd49cd3c0df7",
+      "size" : 2468
+    },
+    {
+      "path" : "cards/mi8t/Osvcab_mi8t.md",
+      "sha256" : "e008d4a3046190010cd5d2c4a1f2f1cb263bd694cab918349ce6a37a3f3f6702",
+      "size" : 281
+    },
+    {
+      "path" : "cards/mi8t/Pmdv_mi8t.md",
+      "sha256" : "ef53c325219b75e7e1a92992ff4f9ac5ac90ea4ff0f9e7e715a11c3f1fb670df",
+      "size" : 1362
+    },
+    {
+      "path" : "cards/mi8t/Pojcab_mi8t.md",
+      "sha256" : "508eeff91dabb5adc06795347c54539aad9fe596a2e29e1350565028cf1827ee",
+      "size" : 2213
+    },
+    {
+      "path" : "cards/mi8t/Pojcabzem_mi8t.md",
+      "sha256" : "1b70b86ef49317527bf639ac640a5925454c6704bb932dd74a9c7ed1211a1394",
+      "size" : 1220
+    },
+    {
+      "path" : "cards/mi8t/Pojdv1_mi8t.md",
+      "sha256" : "4cbd07cc83379c40d1fe2993e3d7078910a03089ddd55897f895fad247856474",
+      "size" : 1306
+    },
+    {
+      "path" : "cards/mi8t/Pojdv_mi8t.md",
+      "sha256" : "b94770f5509a420b6f03d6b7e37facfaf896ed65b8d769b852a44ef5d43e9407",
+      "size" : 5081
+    },
+    {
+      "path" : "cards/mi8t/Pojdvcard_mi8t.md",
+      "sha256" : "2c4cc07dc078b61c3117c93be0a0031fd7476fe3d26e3ab38aa37030c907ac1f",
+      "size" : 1394
+    },
+    {
+      "path" : "cards/mi8t/Pojdvgorit_mi8t.md",
+      "sha256" : "31cb6d87b003fb9b89add93bd0d3ec468789be525591184d2efa85bc2d3456a0",
+      "size" : 715
+    },
+    {
+      "path" : "cards/mi8t/Pojdvnegorit_mi8t.md",
+      "sha256" : "90f0afb6f36033526d3bc6784b8b464285a0472b3922916a05fc66136d91335e",
+      "size" : 724
+    },
+    {
+      "path" : "cards/mi8t/Pojdvzem_mi8t.md",
+      "sha256" : "85197510d5fed45cfc03e841cc01ecfcc1126f5f7bbb1138f590ce5746727a11",
+      "size" : 1008
+    },
+    {
+      "path" : "cards/mi8t/Pojko50_mi8t.md",
+      "sha256" : "6469d730fe0b2c6902b5b824c08f95fe73e4a78fc2922b6dde22d7080d29ec5c",
+      "size" : 3376
+    },
+    {
+      "path" : "cards/mi8t/Pojko50card_mi8t.md",
+      "sha256" : "7af0e9248728a91a0da786115b1d62722285d4255b2e76149b1c9d90b7b5c072",
+      "size" : 1571
+    },
+    {
+      "path" : "cards/mi8t/Pojko50gorit_mi8t.md",
+      "sha256" : "db145766a4f62bbe250744b6afdd1da0cc96b4498ea6073ed34db34570823118",
+      "size" : 765
+    },
+    {
+      "path" : "cards/mi8t/Pojko50negorit_mi8t.md",
+      "sha256" : "b3e46982ee4387b92dd30f115b1cf31261b0c94e9f8e2243b6eb1a598725a2ab",
+      "size" : 611
+    },
+    {
+      "path" : "cards/mi8t/Pojko50zem_mi8t.md",
+      "sha256" : "1509d90f10e6e51114878289561a8bd0a51dc19c1a2c01068d251af875875dae",
+      "size" : 1468
+    },
+    {
+      "path" : "cards/mi8t/Pojred1_mi8t.md",
+      "sha256" : "7f570841e69dab9599f55e7851169419085c6cb2340015798ff866b149f44483",
+      "size" : 1164
+    },
+    {
+      "path" : "cards/mi8t/Pojred_mi8t.md",
+      "sha256" : "bc1dc4655144a3d82eb015e814111c809cc0f7e0f5477b28bc3db3143d4e7471",
+      "size" : 3617
+    },
+    {
+      "path" : "cards/mi8t/Pojredcard_mi8t.md",
+      "sha256" : "f2c784fce8d9d40aba93b39fb05f3ef0d5b0581424d17be29f5438ccf6a75d1a",
+      "size" : 1734
+    },
+    {
+      "path" : "cards/mi8t/Pojredzem_mi8t.md",
+      "sha256" : "190e983f460106c77e0090e5596a8de63b810279cd2c324b1860f15f11397d05",
+      "size" : 1204
+    },
+    {
+      "path" : "cards/mi8t/Pompaj_mi8t.md",
+      "sha256" : "219d11870023862b7d792663709a6112da1a69f81482a381ba4b7e5e73c5cf9b",
+      "size" : 620
+    },
+    {
+      "path" : "cards/mi8t/Posfar_mi8t.md",
+      "sha256" : "350e438f7befb588e655b84a74b75903c0e74d096dce52fb6337e85420082268",
+      "size" : 398
+    },
+    {
+      "path" : "cards/mi8t/Povcab_mi8t.md",
+      "sha256" : "bcb6180650cc760937da0a3d12c36caaae0713f41280757526ae8d2a319448eb",
+      "size" : 443
+    },
+    {
+      "path" : "cards/mi8t/Pu_mi8t.md",
+      "sha256" : "536822319cdb6b8a772b19468b06466b097b1d85abfd80eb97602051f2a4e669",
+      "size" : 1871
+    },
+    {
+      "path" : "cards/mi8t/Pucard_mi8t.md",
+      "sha256" : "a600cf4418c76d21084264bf4d68de8f883bc96cc67df339d09d07dbeae35518",
+      "size" : 1400
+    },
+    {
+      "path" : "cards/mi8t/Put_mi8t.md",
+      "sha256" : "82daf7bc1c0fdfec5de8c327a46e4766adebadf360b0176a045504248cb06295",
+      "size" : 3065
+    },
+    {
+      "path" : "cards/mi8t/Putcard_mi8t.md",
+      "sha256" : "788ee22d36d4aa0167699a0cd06a4d6d9f55030e92a320923e228c3d3ba25faa",
+      "size" : 1738
+    },
+    {
+      "path" : "cards/mi8t/Puvis_mi8t.md",
+      "sha256" : "ab6a04ebed8724e4d3cca4125b84dfbebc392cc1dd9e3f127198c8503c611fab",
+      "size" : 963
+    },
+    {
+      "path" : "cards/mi8t/Rezon_mi8t.md",
+      "sha256" : "5db07326702deacf69891b9aedf7eec38a49bdba710ad5faaa89c9123f8a3af3",
+      "size" : 1365
+    },
+    {
+      "path" : "cards/mi8t/Rio3_mi8t.md",
+      "sha256" : "c694a9fb70cc4e5b522e0a15f24bb370797b25b8c15604a254a3cb2eef2b707e",
+      "size" : 458
+    },
+    {
+      "path" : "cards/mi8t/Rs_mi8t.md",
+      "sha256" : "7bcb403b71025127d291fa7bd0f6f1efc75f5c6add8669ffee7479625ffc3ddb",
+      "size" : 1834
+    },
+    {
+      "path" : "cards/mi8t/Rulfar_mi8t.md",
+      "sha256" : "d3c26fdcaad505404fe15dea474035b0c4637a2478062104fc4c32f8188c97c5",
+      "size" : 441
+    },
+    {
+      "path" : "cards/mi8t/Rv_mi8t.md",
+      "sha256" : "d8050c67556bd79d3451a36ccdfcf12916f9cf50b67e2694018081dc30ffbd74",
+      "size" : 406
+    },
+    {
+      "path" : "cards/mi8t/Sar_mi8t.md",
+      "sha256" : "6ca7faeeccd8e8e0e174f57326bea1a39c970ff8d7dd92e28d8c0df310b88d80",
+      "size" : 1413
+    },
+    {
+      "path" : "cards/mi8t/Sbros_mi8t.md",
+      "sha256" : "ddc0c341627639512a35c6d6a8eabf01bc2b6543aef2192155f3c7a65eacd5c3",
+      "size" : 2670
+    },
+    {
+      "path" : "cards/mi8t/Siggen_mi8t.md",
+      "sha256" : "72ffefd39376ccad570890d87e419e18cfaecbb6b1c9708368c642a1236e2786",
+      "size" : 523
+    },
+    {
+      "path" : "cards/mi8t/Spu7_mi8t.md",
+      "sha256" : "69b9b305c7b83ca5e41434f5b68bbebe86055c81eb9549de8ecaa4f6f50f323e",
+      "size" : 434
+    },
+    {
+      "path" : "cards/mi8t/Steklo_mi8t.md",
+      "sha256" : "886baa2635883b1db4ff50db60133ed67ab49d0511347170e7c801984baf7471",
+      "size" : 481
+    },
+    {
+      "path" : "cards/mi8t/Struj_mi8t.md",
+      "sha256" : "6161d6b9412ec163c33a584bc92bdfe0208f9386619757d375df655fda138c6f",
+      "size" : 2583
+    },
+    {
+      "path" : "cards/mi8t/Strujcard_mi8t.md",
+      "sha256" : "c6b6e0f4b55d068450eca255b0e95752e5fb052ea7e056aed824b96526e3511c",
+      "size" : 1465
+    },
+    {
+      "path" : "cards/mi8t/Strujred_mi8t.md",
+      "sha256" : "6f5d2bfd6a781fdbbc93117d3b9fbc62a9a2430b2ad688cee634cc4d2c76f143",
+      "size" : 1631
+    },
+    {
+      "path" : "cards/mi8t/Susha_mi8t.md",
+      "sha256" : "9cfc361c72177b0d39e84bc07bc9e771db6dd5fe653c97ffc673b8d0e902a8e9",
+      "size" : 4514
+    },
+    {
+      "path" : "cards/mi8t/Sys_mi8t.md",
+      "sha256" : "1543a70ae814cb2b38ac8186d9d821fac5d6bda27016335656dfe931345ec132",
+      "size" : 2689
+    },
+    {
+      "path" : "cards/mi8t/Syscard_mi8t.md",
+      "sha256" : "a9a4b32382ef4fdfe5a890718ee3c02a573723f8f6dac52798f52880528d03f7",
+      "size" : 2172
+    },
+    {
+      "path" : "cards/mi8t/Tmxr_mi8t.md",
+      "sha256" : "e25384979b03d4595d4fa2abd547cca2818619337f140ebf155206a0902f499e",
+      "size" : 700
+    },
+    {
+      "path" : "cards/mi8t/Topl_mi8t.md",
+      "sha256" : "08deb0ec821a80bc7d618aa7c902dbdfd029c32bab79b38794e4d801ba251294",
+      "size" : 476
+    },
+    {
+      "path" : "cards/mi8t/U2_mi8t.md",
+      "sha256" : "2715a5a40f089151c871c1825077ff276ae304c947bd013a957c7f7fafc0202c",
+      "size" : 395
+    },
+    {
+      "path" : "cards/mi8t/Ukv_mi8t.md",
+      "sha256" : "680c883f39ff74f2a519212ead9487582a0ea19a01c7091c9015f1626dc4d414",
+      "size" : 406
+    },
+    {
+      "path" : "cards/mi8t/Us1_mi8t.md",
+      "sha256" : "d0db4588e042e72c0344e91741fb1d817363530458bf56bf28beb9694bcb7306",
+      "size" : 1023
+    },
+    {
+      "path" : "cards/mi8t/Us2_mi8t.md",
+      "sha256" : "486ca57a80b406e10b94c181cba5d56ff317d4edf946e84d54b02c3610fd7c5e",
+      "size" : 2069
+    },
+    {
+      "path" : "cards/mi8t/Us_mi8t.md",
+      "sha256" : "c9903ba982a9348fa85bb268c1e4c7a635d504629d8ba1c32cd470d97efd2486",
+      "size" : 433
+    },
+    {
+      "path" : "cards/mi8t/Vd_mi8t.md",
+      "sha256" : "9991e96577b32e3d32b8c01041788ff9935cdba102f4cc6d8c923454eb7e7c7a",
+      "size" : 419
+    },
+    {
+      "path" : "cards/mi8t/Vibropov_mi8t.md",
+      "sha256" : "e6324c462f468376a800973248bc1875bda09370e13495f39871d783c9ad5bba",
+      "size" : 1434
+    },
+    {
+      "path" : "cards/mi8t/Vk_mi8t.md",
+      "sha256" : "85b76e2095fedc17066e44914c7bedbc78fd5a017204c4073ac91afcc4ee80ec",
+      "size" : 2148
+    },
+    {
+      "path" : "cards/mi8t/Vkcard_mi8t.md",
+      "sha256" : "1683c091945cb44fed45d85767834f15143b353a7172e0b6958cfa231a818a23",
+      "size" : 1103
+    },
+    {
+      "path" : "cards/mi8t/Voda_mi8t.md",
+      "sha256" : "65cb17f2d58b46c71c9c939f06312be7bcba1d6e41b9693ab8d154c276d25d4d",
+      "size" : 4309
+    },
+    {
+      "path" : "cards/mi8t/Vr_mi8t.md",
+      "sha256" : "28f4604f72713e498d0213c3b30f15214cbd2acba470bc7d14bbc1c4b95fc1cc",
+      "size" : 399
+    },
+    {
+      "path" : "cards/neisp/A037_v.md",
+      "sha256" : "ca2a7945036cff5f5ff5f35a136d92c94e13b008cc6102f5edf4bce1cb6b1289",
+      "size" : 2750
+    },
+    {
+      "path" : "cards/neisp/Agb3k.md",
+      "sha256" : "2a5de3a2816688d1b8a55d62b546b7a3af3b7c0c17b5ffe54a103072b9b0b031",
+      "size" : 4774
+    },
+    {
+      "path" : "cards/neisp/Agb96.md",
+      "sha256" : "81cc7caa89576c8e9d024e1862e2079c44f06fa43bf25098061b541c61a57af3",
+      "size" : 804
+    },
+    {
+      "path" : "cards/neisp/Agb_v.md",
+      "sha256" : "3ef6e65b58332509cb048c84728d8fd20d3454e6bd6c78186c73a635d0b1335a",
+      "size" : 256
+    },
+    {
+      "path" : "cards/neisp/Ap34_v.md",
+      "sha256" : "e2a010231f06db547cb80a6d653aa258ca1d9e825cbd155ffb765026458209bb",
+      "size" : 3216
+    },
+    {
+      "path" : "cards/neisp/Ark_v.md",
+      "sha256" : "3973b3452d33fcf4d8dc8881b78075ddb9e2df5d0ec2b999bfe1ff80e3ddc641",
+      "size" : 2043
+    },
+    {
+      "path" : "cards/neisp/Avstopzap_mi8mt.md",
+      "sha256" : "b61da0c58075cf48b8eb82b2eeced493c7fb8bd5d23cecec446f65742a2f70e9",
+      "size" : 3455
+    },
+    {
+      "path" : "cards/neisp/Bur_v.md",
+      "sha256" : "fb8c2915f85d905585e9c22f4031910354a4ef8f9b32a6bc869075d7ee92990c",
+      "size" : 2228
+    },
+    {
+      "path" : "cards/neisp/Dmr_m.md",
+      "sha256" : "0cde03feaba9a3047550042b45c6f0f1015fd58a56dcc820da25d46d60c86aab",
+      "size" : 1158
+    },
+    {
+      "path" : "cards/neisp/Gen1_mi8mt.md",
+      "sha256" : "55e1568e88bd3f5a6ec61eb8a851f0be2862502c4a768e90ddeea96dcb52826d",
+      "size" : 1972
+    },
+    {
+      "path" : "cards/neisp/Iv500t.md",
+      "sha256" : "349421a27985c20faaf800770872a6a316ccc57231d52aee3f7a773e536fa68d",
+      "size" : 3969
+    },
+    {
+      "path" : "cards/neisp/Ks_v.md",
+      "sha256" : "c2a7136006f0b9caa8c47454d10ed0defaecb6b7637559ae4c6769b3eedc3c74",
+      "size" : 1265
+    },
+    {
+      "path" : "cards/neisp/Mc61_v.md",
+      "sha256" : "f8a8bc91ef64d9d7ea22c9a3f738092f35d93b9912af793e87d53f152a630511",
+      "size" : 447
+    },
+    {
+      "path" : "cards/neisp/Neisp.md",
+      "sha256" : "91e153b8745019e805714109e07d33fc6c8ba4720614be25689cf935ee3f2063",
+      "size" : 1946
+    },
+    {
+      "path" : "cards/neisp/Nst.md",
+      "sha256" : "8fd5d5ee597aa1354238af18afaee0d48733e72bffcb9001cf24c7282f5ecdf1",
+      "size" : 1780
+    },
+    {
+      "path" : "cards/neisp/P507.md",
+      "sha256" : "928d51cbe40669865d9320548437468f830f95501538be0989e6cf7901a6045a",
+      "size" : 669
+    },
+    {
+      "path" : "cards/neisp/Pos_v.md",
+      "sha256" : "7d7423aa070365a7b8a761f989edf0f6924d2e6a466af4afe382afb7bc9e2a5e",
+      "size" : 910
+    },
+    {
+      "path" : "cards/neisp/Pps.md",
+      "sha256" : "8ce61001c95fa1d00ac84a3850c17423caf76ae7e249359837446e29efb4f556",
+      "size" : 443
+    },
+    {
+      "path" : "cards/neisp/Rez_m.md",
+      "sha256" : "9c5c35440c8b194fdd346e2c0e06ef1795a5f57ebcedfeb22590dbb43eef5c1f",
+      "size" : 583
+    },
+    {
+      "path" : "cards/neisp/Rhg.md",
+      "sha256" : "1f37494b393ea8dfeab31a68d19d4a251d2a3c5aaf0943a5b7d310fe77290d92",
+      "size" : 557
+    },
+    {
+      "path" : "cards/neisp/Ri65_v.md",
+      "sha256" : "ee68e02de919f461062483138ca1f2b5043a908ffdde2ed3a1620c481e6194da",
+      "size" : 1144
+    },
+    {
+      "path" : "cards/neisp/Sarp_v.md",
+      "sha256" : "b65ed9b5885f9af8f78b68801972c6d43e4586a32c7926bc328b9e4ec739a516",
+      "size" : 488
+    },
+    {
+      "path" : "cards/neisp/Spu52.md",
+      "sha256" : "e1c13cf541b2e1c8cddd85ede6aeab6cdd521251a3d2c8d39fcb9b6251d257d8",
+      "size" : 1671
+    },
+    {
+      "path" : "cards/neisp/Trim.md",
+      "sha256" : "5e07f6172142fab1fbee1655d074f37dfb88555752787d8abea2b89586d35c96",
+      "size" : 889
+    },
+    {
+      "path" : "cards/neisp/Tv2.md",
+      "sha256" : "f7c1939b09851db3885da7ebe7034001c25ba87c3f84c9129e749a41dc1a87da",
+      "size" : 393
+    },
+    {
+      "path" : "cards/neisp/Tv3.md",
+      "sha256" : "b961e79069a9967677b11af1e6b5d9288a0f815822e9e9bb8b510ac755f1eb49",
+      "size" : 5017
+    },
+    {
+      "path" : "cards/neisp/Ukv_v.md",
+      "sha256" : "28780d8ddba581712184fada22f4ea8e8edbb00e3a9cd9f23eacc367dc03211d",
+      "size" : 1750
+    },
+    {
+      "path" : "cards/neisp/Upr_v.md",
+      "sha256" : "d675153a6f3a55942892635909f214a66c7d0ca14eeed95506e4fb53ca4dc1b5",
+      "size" : 321
+    },
+    {
+      "path" : "cards/neisp/Us_v.md",
+      "sha256" : "4779d623d6a9056462a44571aa7235089ae3069e682c2782be6a11c4ddb13fa6",
+      "size" : 3999
+    },
+    {
+      "path" : "cards/neisp/Vsu.md",
+      "sha256" : "13a9fe3cf8b51432200c27b76ecdfc3c3f358fc8c6a6f40bfe1c3a949001f35c",
+      "size" : 1574
+    },
+    {
+      "path" : "cards/neisp/Vsus.md",
+      "sha256" : "7cb6879ee2f3289627be8ad913c301118499b3d8426c0cdbc4ed57af6274731b",
+      "size" : 2335
+    },
+    {
+      "path" : "cards/neisp/Vu1.md",
+      "sha256" : "00c1d5160770185dacee4a3a67e395be9eaf6f06c232b9044f94aa29d71988ce",
+      "size" : 2158
+    },
+    {
+      "path" : "cards/neisp/Vu1m.md",
+      "sha256" : "8181348e49ef12ed690232a5935529eecf2eb91236987b629aefa552c569c59c",
+      "size" : 948
+    },
+    {
+      "path" : "cards/neisp/Vu2.md",
+      "sha256" : "c80bfa3f1da2dc16c93eac21dba39afbffffefcd98d729776a28531f1bb9fe1d",
+      "size" : 1575
+    },
+    {
+      "path" : "cards/neisp/Vu2m.md",
+      "sha256" : "2c39bb053b794e4b879beafc0f2348ebd015da6e5608936aa370861694b7615b",
+      "size" : 1106
+    }
+  ],
+  "format" : 1,
+  "published" : "2026-10-28",
+  "signature" : null,
+  "version" : 1
+}
